@@ -1,6 +1,7 @@
 body {
   background-image: url(bg.jpg);
   background-attachment: fixed;
+  background-size: cover;
 }
 .news-container .card-title {
   background: rgba(0, 0, 0, 0.7);
